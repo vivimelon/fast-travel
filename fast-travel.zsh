@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 HOSTS_FILE="$HOME/.ssh/hosts/hosts.txt"
 KEY_DIR="$HOME/.ssh/keys"
 
