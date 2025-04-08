@@ -73,8 +73,6 @@ Just press TAB after typing:
 fast-travel <TAB>
 
 It’ll suggest available checkpoints.
-🧪 Why tho?
-
 
 🙃 License?
 
